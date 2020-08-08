@@ -9,3 +9,8 @@ This has uses plugins
  - swipe_up: ^1.0.0
 
 This applicaiton used to send messages in whatspp without saving the contact.
+
+## Screenshots
+
+![screenshot scroll up](screenshot1.jpeg)
+![screenshot main page](screenshot2.jpeg)
